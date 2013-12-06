@@ -14,7 +14,7 @@ public class Delete extends DialogFragment{
 			.setPositiveButton(R.string.delete, new DialogInterface.OnClickListener(){
 			public void onClick(DialogInterface dialog, int id){
 					
-				}
+				}	
 			})
 			.setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener(){
 				public void onClick(DialogInterface dialog, int id){
