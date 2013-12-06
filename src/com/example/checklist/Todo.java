@@ -77,5 +77,4 @@ public class Todo extends Activity {
         getMenuInflater().inflate(R.menu.todo, menu);
         return true;
     }
-    
 }
